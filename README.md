@@ -3,7 +3,7 @@ HR Management System (PostgreSQL Project)
 📌 Introduction
 This project is a SQL-driven HR Management System in which I designed a relational database and implemented a variety of queries to manage employee information, payroll, attendance, and related HR operations.
 
-I built this project after learning PostgreSQL through Jose Portilla’s Udemy course, and I’m grateful for the practical knowledge gained from it. The project was created as a hands-on exercise to reinforce my learning and successfully complete the course.
+I built this project after learning PostgreSQL through Datacamp course, and I’m grateful for the practical knowledge gained from it. The project was created as a hands-on exercise to reinforce my learning and successfully complete the course.
 
 All database structures and SQL queries were independently designed and written by me using the concepts covered in the course. To efficiently populate tables that required large datasets, I used Python with libraries such as pandas, faker, and csv to generate realistic sample data.
 
